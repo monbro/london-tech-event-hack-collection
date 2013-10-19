@@ -58,7 +58,9 @@ Jobboards
 * http://londonstartupjobs.co.uk/
 * https://angel.co/jobs
 * https://jobs.github.com/
+* http://www.freelancers.net/
 * http://blog.thefetch.com/2013/07/20/15-places-to-find-a-startup-job-in-london/
+* http://www.jobsite.co.uk/cgi-bin/advsearch?search_type=quick&location_within=20&location_include=London&daysback=7
 
 Renting a room
 ------------
@@ -67,8 +69,6 @@ Renting a room
 * http://www.gumtree.com/single-room-flatshare/london
 * http://www.rightmove.co.uk/
 * http://uk.easyroommate.com/
-* http://www.freelancers.net/
-* http://www.jobsite.co.uk/cgi-bin/advsearch?search_type=quick&location_within=20&location_include=London&daysback=7
 
 Awesome mobile helper
 ---------------------
