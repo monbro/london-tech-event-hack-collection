@@ -17,6 +17,7 @@ Eventslists
 * http://attending.io/events
 * http://www.level39.co/index.php/events/calendar/
 * http://techcrunch.com/events/
+* http://www.campuslondon.com/events/
 
 Single Events
 ------------
@@ -37,6 +38,15 @@ Single Events
 * http://openco.us/
 * http://saeuk.eventbrite.co.uk/
 * http://creative-collaboration.net/
+* http://www.meetup.com/HTML5-CodeShow/
+* http://www.meetup.com/Untangling-the-Web-London/
+* http://www.meetup.com/Ladies-Who-Code-UK/
+* http://www.meetup.com/London-Weekly-Django-Coding-Session/
+* http://www.meetup.com/Vim-London/
+* http://www.meetup.com/graphdb-london/
+* http://www.meetup.com/The-London-Python-Group-TLPG/
+* http://www.meetup.com/HNLondon/
+* http://www.meetup.com/Find-A-tech-Job-In-London/
 
 Hackathon
 ------------
@@ -61,6 +71,8 @@ Jobboards
 * http://www.freelancers.net/
 * http://blog.thefetch.com/2013/07/20/15-places-to-find-a-startup-job-in-london/
 * http://www.jobsite.co.uk/cgi-bin/advsearch?search_type=quick&location_within=20&location_include=London&daysback=7
+* http://workinstartups.com/
+* http://www.enternships.com/
 
 Renting a room
 ------------
