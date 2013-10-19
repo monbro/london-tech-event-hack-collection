@@ -16,6 +16,7 @@ Eventslists
 * http://www.rainmakingloft.com/#page-events
 * http://attending.io/events
 * http://www.level39.co/index.php/events/calendar/
+* http://techcrunch.com/events/
 
 Single Events
 ------------
@@ -66,3 +67,7 @@ Renting a room
 * http://uk.easyroommate.com/
 * http://www.freelancers.net/
 * http://www.jobsite.co.uk/cgi-bin/advsearch?search_type=quick&location_within=20&location_include=London&daysback=7
+
+Awesome mobile helper
+---------------------
+* http://citymapper.com/
