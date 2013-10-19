@@ -24,8 +24,7 @@ Single Events
 * http://www.roundhouse.org.uk/camden-beach#.UfgmNmTXQhK
 * http://londonist.com/2012/07/whats-the-best-pub-in-farringdon-and-clerkenwell.php
 * http://www.meetup.com/London-MongoDB-User-Group/
-* http://www.meetup.com/Meteor-London/events/137513582/
-* http://startupabc.eventbrite.co.uk/
+* http://www.meetup.com/Meteor-London/
 * http://www.sci-fi-london.com/festival
 * http://www.londonopenhouse.org/
 * http://www.schoolforcreativestartups.com/
