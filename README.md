@@ -64,6 +64,8 @@ Renting a room
 ------------
 * http://www.intolondon.com/flatshare/
 * http://london.spareroom.co.uk/flatshare/?search_id=145704096
+* http://www.gumtree.com/single-room-flatshare/london
+* http://www.rightmove.co.uk/
 * http://uk.easyroommate.com/
 * http://www.freelancers.net/
 * http://www.jobsite.co.uk/cgi-bin/advsearch?search_type=quick&location_within=20&location_include=London&daysback=7
