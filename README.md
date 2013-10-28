@@ -9,6 +9,7 @@ PLEASE CONTRIBUTE!
 Eventslists
 ------------
 * http://events.ldn.io/
+* http://thefetch.com
 * http://london.leweb.co/
 * http://www.eventbrite.co.uk/directory?city=London
 * http://techcitynews.com/events/
