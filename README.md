@@ -20,6 +20,7 @@ Eventslists
 * http://techcrunch.com/events/
 * http://www.campuslondon.com/events/
 * http://roundabout.io/
+* https://generalassemb.ly/london
 
 Single Events
 ------------
