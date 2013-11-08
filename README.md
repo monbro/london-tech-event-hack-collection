@@ -21,6 +21,7 @@ Eventslists
 * http://www.campuslondon.com/events/
 * http://roundabout.io/
 * https://generalassemb.ly/london
+* http://siliconmilkroundabout.com/ (Job hunting)
 
 Single Events
 ------------
