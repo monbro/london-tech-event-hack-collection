@@ -50,6 +50,7 @@ Single Events
 * http://www.meetup.com/The-London-Python-Group-TLPG/
 * http://www.meetup.com/HNLondon/
 * http://www.meetup.com/Find-A-tech-Job-In-London/
+* http://www.meetup.com/lionscage/
 
 Hackathon
 ------------
