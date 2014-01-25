@@ -96,6 +96,8 @@ Renting a room
 * http://uk.easyroommate.com/
 * http://london.craigslist.co.uk/roo/
 
-Awesome mobile helper
+Awesome helpful mobile apps
 ---------------------
 * http://citymapper.com/
+* http://umanoapp.com/
+* http://yplanapp.com/
