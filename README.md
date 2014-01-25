@@ -21,7 +21,6 @@ Eventslists
 * http://techcrunch.com/events/
 * http://www.campuslondon.com/events/
 * http://roundabout.io/
-* https://generalassemb.ly/london
 * http://siliconmilkroundabout.com/ (Job hunting)
 
 Single Events
@@ -82,6 +81,11 @@ Jobboards
 * http://workinstartups.com/
 * http://www.enternships.com/
 * http://www.escapethecity.org/careers/opportunities
+
+Education
+------------
+* https://www.coursera.org/
+* https://generalassemb.ly/london
 
 Renting a room
 ------------
