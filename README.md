@@ -53,6 +53,7 @@ Single Events
 * http://www.meetup.com/lionscage/
 * http://www.meetup.com/ProductTank/
 * http://codemesh.io/
+* http://www.generateconf.com/
 
 Hackathon
 ------------
