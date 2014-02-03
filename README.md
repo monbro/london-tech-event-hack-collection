@@ -54,6 +54,7 @@ Single Events
 * http://www.meetup.com/ProductTank/
 * http://codemesh.io/
 * http://www.generateconf.com/
+* http://edgeconf.com/
 
 Hackathon
 ------------
