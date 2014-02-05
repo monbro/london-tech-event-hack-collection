@@ -22,6 +22,7 @@ Eventslists
 * http://www.campuslondon.com/events/
 * http://roundabout.io/
 * http://siliconmilkroundabout.com/ (Job hunting)
+* http://www.barbican.org.uk/
 
 Single Events
 ------------
