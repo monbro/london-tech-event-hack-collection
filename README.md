@@ -96,7 +96,6 @@ Renting a room
 * http://london.spareroom.co.uk/flatshare/?search_id=145704096
 * http://www.gumtree.com/single-room-flatshare/london
 * http://www.rightmove.co.uk/
-* http://uk.easyroommate.com/
 * http://london.craigslist.co.uk/roo/
 
 Awesome helpful mobile apps
