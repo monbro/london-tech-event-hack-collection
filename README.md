@@ -90,6 +90,11 @@ Education
 * https://www.coursera.org/
 * https://generalassemb.ly/london
 
+Good to watch
+------------
+* http://www.ted.com/
+* http://creativemornings.com/cities/ldn
+
 Renting a room
 ------------
 * http://www.intolondon.com/flatshare/
