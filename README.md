@@ -54,6 +54,7 @@ Single Events
 * http://www.meetup.com/Find-A-tech-Job-In-London/
 * http://www.meetup.com/lionscage/
 * http://www.meetup.com/ProductTank/
+* http://www.eventbrite.co.uk/o/technology-will-save-us-1580252876
 * http://codemesh.io/
 * http://www.generateconf.com/
 * http://edgeconf.com/
