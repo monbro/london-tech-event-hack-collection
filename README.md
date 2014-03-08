@@ -89,6 +89,7 @@ Education
 ------------
 * https://www.coursera.org/
 * https://generalassemb.ly/london
+* https://www.udemy.com/
 
 Good to watch
 ------------
