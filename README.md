@@ -61,11 +61,11 @@ Single Events
 Hackathon
 ------------
 * http://www.meetup.com/SiliconRoundabout/
-* http://wiki.opendataday.org/London2013
+* http://wiki.opendataday.org/London2014
 * http://www.hackathon.io/
 * http://sizzle9hackathon.eventbrite.co.uk/
 * https://www.facebook.com/hackathon/events
-* http://www.campus-party.eu/2013/index-cpeu.html
+* http://www.campus-labs.com/en/
 * http://london.launch48.com/
 * http://www.f6s.com/startupboard
 
