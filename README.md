@@ -24,6 +24,7 @@ Eventslists
 * http://siliconmilkroundabout.com/ (Job hunting)
 * http://www.barbican.org.uk/
 * http://billetto.co.uk/en
+* http://centreforentrepreneurs.org/events
 
 Single Events
 ------------
