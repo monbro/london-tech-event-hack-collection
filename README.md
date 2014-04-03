@@ -94,6 +94,7 @@ Education
 * https://generalassemb.ly/london
 * https://www.udemy.com/
 * http://www.makersacademy.com/
+* http://www.theschooloflife.com/shop/classroom/
 
 Good to watch
 ------------
