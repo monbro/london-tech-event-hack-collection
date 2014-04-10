@@ -109,6 +109,7 @@ Renting a room
 * http://gumtree.com/single-room-flatshare/london
 * http://rightmove.co.uk/
 * http://london.craigslist.co.uk/roo/
+* http://airbnb.co.uk/s/london
 
 Awesome helpful mobile apps
 ---------------------
