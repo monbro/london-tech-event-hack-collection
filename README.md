@@ -15,6 +15,7 @@ Eventslists
 * http://www.eventbrite.co.uk/directory?city=London
 * http://techcitynews.com/events/
 * http://www.meetup.com/find/
+* https://skillsmatter.com/events
 * http://www.rainmakingloft.com/#page-events
 * http://attending.io/events
 * http://www.level39.co/index.php/events/calendar/
