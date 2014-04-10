@@ -23,7 +23,6 @@ Eventslists
 * http://campuslondon.com/events/
 * http://centreforentrepreneurs.org/events
 * http://roundabout.io/
-* http://siliconmilkroundabout.com/ (Job hunting)
 * http://barbican.org.uk/
 * http://roundhouse.org.uk/whats-on/list
 * http://billetto.co.uk/en
@@ -54,6 +53,7 @@ Single Events
 * http://meetup.com/London-MongoDB-User-Group/
 * http://meetup.com/Meteor-London/
 * http://eventbrite.co.uk/o/technology-will-save-us-1580252876
+* http://siliconmilkroundabout.com/ (Job hunting)
 
 Conferences
 ------------
