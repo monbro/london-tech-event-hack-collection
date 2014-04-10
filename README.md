@@ -18,7 +18,7 @@ Eventslists
 * http://rainmakingloft.co.uk/#page-events
 * http://attending.io/events
 * http://3-beards.com/events
-* http://level39.co/index.php/events/calendar/
+* http://level39.co/events
 * http://techcrunch.com/events/
 * http://campuslondon.com/events/
 * http://centreforentrepreneurs.org/events
