@@ -89,6 +89,7 @@ Jobboards
 * http://enternships.com/
 * http://escapethecity.org/careers/opportunities
 * http://www.awwwards.com/jobs/
+* http://hiremyfriend.io/
 
 Education
 ------------
