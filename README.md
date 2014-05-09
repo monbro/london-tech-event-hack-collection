@@ -17,6 +17,7 @@ Eventslists
 * http://skillsmatter.com/events
 * http://rainmakingloft.co.uk/#page-events
 * http://attending.io/events
+* http://lanyrd.com
 * http://3-beards.com/events
 * http://level39.co/events
 * http://techcrunch.com/events/
