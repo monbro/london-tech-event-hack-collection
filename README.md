@@ -4,7 +4,7 @@ london-tech-event-hack-collection
 As I moved to the uk, I tried to find the best places to grab information about various stuff. Now presenting a little collection of sources for the best ways to find hackathons, tech events or jobs. Its all about getting involved! 
 Note that there might be snippets of cultural and artistic stuff as well! The order is randomly.
 
-PLEASE CONTRIBUTE!
+PLEASE CONTRIBUTE or pay me [a beer](https://www.gittip.com/monbro/)? :-)
 
 Eventslists
 ------------
