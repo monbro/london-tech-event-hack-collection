@@ -98,6 +98,7 @@ Education
 * http://generalassemb.ly/london
 * http://udemy.com/
 * http://makersacademy.com/
+* http://www.skillshare.com/
 * http://theschooloflife.com/shop/classroom/
 
 Good to watch
