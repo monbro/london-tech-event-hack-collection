@@ -109,10 +109,10 @@ Good to watch
 Renting a room
 ------------
 * http://intolondon.com/flatshare/
-* http://london.spareroom.co.uk/flatshare/?search_id=145704096
+* http://london.spareroom.co.uk/
 * http://gumtree.com/single-room-flatshare/london
 * http://rightmove.co.uk/
-* http://london.craigslist.co.uk/roo/
+* http://london.en.craigslist.co.uk/roo/
 * http://airbnb.co.uk/s/london
 
 Awesome helpful mobile apps
