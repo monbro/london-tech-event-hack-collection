@@ -24,9 +24,6 @@ Eventslists
 * http://campuslondon.com/events/
 * http://centreforentrepreneurs.org/events
 * http://roundabout.io/
-* http://barbican.org.uk/
-* http://roundhouse.org.uk/whats-on/list
-* http://billetto.co.uk/en
 
 Single Events
 ------------
@@ -120,3 +117,13 @@ Awesome helpful mobile apps
 * http://citymapper.com/
 * http://umanoapp.com/
 * http://yplanapp.com/
+
+Freetime Fun & Events
+------------------
+* http://ianvisits.co.uk/
+* http://londonist.com/
+* http://timeout.com/
+* http://hypeapp.co/
+* http://billetto.co.uk/en
+* http://barbican.org.uk/
+* http://roundhouse.org.uk/whats-on/list
