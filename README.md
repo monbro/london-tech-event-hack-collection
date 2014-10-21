@@ -97,6 +97,7 @@ Education
 * http://makersacademy.com/
 * http://www.skillshare.com/
 * http://theschooloflife.com/shop/classroom/
+* http://iversity.org/
 
 Good to watch
 ------------
