@@ -84,6 +84,7 @@ Jobboards
 * http://jobsite.co.uk/cgi-bin/advsearch?search_type=quick&location_within=20&location_include=London&daysback=7
 * http://weworkremotely.com/
 * http://workinstartups.com/
+* http://tyba.com/
 * http://enternships.com/
 * http://escapethecity.org/careers/opportunities
 * http://www.awwwards.com/jobs/
