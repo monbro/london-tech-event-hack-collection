@@ -130,3 +130,4 @@ Freetime Fun & Events
 * http://barbican.org.uk/
 * http://roundhouse.org.uk/whats-on/list
 * https://www.list.co.uk/
+* http://www.inthehiddencity.com/london/
