@@ -72,6 +72,7 @@ Hackathon
 
 Jobboards
 ------------
+* https://www.workshape.io/
 * http://somewherehq.com/discover/city/london
 * http://3-beards.com/jobs/
 * http://campuslondon.com/jobs/
@@ -99,6 +100,8 @@ Education
 * http://www.skillshare.com/
 * http://theschooloflife.com/shop/classroom/
 * http://iversity.org/
+* https://www.startupinstitute.com/
+* http://decoded.com/uk/
 
 Good to watch
 ------------
@@ -131,3 +134,24 @@ Freetime Fun & Events
 * http://roundhouse.org.uk/whats-on/list
 * https://www.list.co.uk/
 * http://www.inthehiddencity.com/london/
+
+Co-working
+-----------------
+* https://www.techhub.com/
+* https://www.wework.com/
+* http://centralworking.com/
+* http://centralworking.com/
+* http://club.workspacegroup.co.uk/
+* http://thecubelondon.com/
+* https://www.hoxtonmix.com/
+* https://www.hoxtonmix.com/
+* http://www.whitebearyard.com/#/about-us/4540817936
+* http://www.whitebearyard.com/#/about-us/4540817936
+* http://www.warneryard.com/
+* http://shoreditchworks.com/
+* http://shoreditchworks.com/
+* http://www.techspace.london/
+* http://www.techspace.london/
+
+
+
