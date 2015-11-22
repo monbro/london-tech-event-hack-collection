@@ -140,17 +140,12 @@ Co-working
 * https://www.techhub.com/
 * https://www.wework.com/
 * http://centralworking.com/
-* http://centralworking.com/
 * http://club.workspacegroup.co.uk/
 * http://thecubelondon.com/
 * https://www.hoxtonmix.com/
-* https://www.hoxtonmix.com/
-* http://www.whitebearyard.com/#/about-us/4540817936
 * http://www.whitebearyard.com/#/about-us/4540817936
 * http://www.warneryard.com/
 * http://shoreditchworks.com/
-* http://shoreditchworks.com/
-* http://www.techspace.london/
 * http://www.techspace.london/
 
 
